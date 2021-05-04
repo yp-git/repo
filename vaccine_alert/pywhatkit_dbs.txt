@@ -1,0 +1,506 @@
+--------------------
+Date: 3:5:2021
+Time: 15:44
+Phone number: +919892847666
+Message: hello ..want to try bit coints to get rich.
+--------------------
+Date: 3:5:2021
+Time: 15:52
+Phone number: +919920119660
+Message: hello ..i know what you did secterts in college.
+--------------------
+Date: 3:5:2021
+Time: 17:40
+Phone number: +919892847666
+Message: Vaccines available at Thane: DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 3:5:2021
+Time: 17:42
+Phone number: +919892847666
+Message: Vaccines available at Thane: DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 17:44
+Phone number: +919892847666
+Message: Vaccines available at Thane: DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 17:47
+Phone number: +919892847666
+Message: Vaccines available at Thane: DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 20:58
+Phone number: +919892847666
+Message: Vaccines available at Thane: DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 3:5:2021
+Time: 21:0
+Phone number: +919920119660
+Message: Vaccines available at Thane: DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 3:5:2021
+Time: 21:2
+Phone number: +919892847666
+Message: Vaccines available at Thane: DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:12
+Phone number: +
+Message: Vaccines available : DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:15
+Phone number: +919920119660
+Message: Vaccines available : DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:17
+Phone number: +919892847666
+Message: Vaccines available : DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:17
+Phone number: +919920119660
+Message: Vaccines available : DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:19
+Phone number: +919892847666
+Message: Vaccines available : DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:19
+Phone number: +919920119660
+Message: Vaccines available : DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:21
+Phone number: +919920119660
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:23
+Phone number: +919892847666
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:44
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:45
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:48
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:51
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:52
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:55
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 21:58
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:1
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:3
+Phone number: +919920119660
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:4
+Phone number: +919892847666
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:16
+Phone number: +919920119660
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:17
+Phone number: +919892847666
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:44
+Phone number: +919920119660
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:45
+Phone number: +919892847666
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:46
+Group_id: Iuh9TsLn9ScDwBGvCkm61v
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:46
+Phone number: +919920119660
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 22:47
+Phone number: +919892847666
+Message: Vaccines available : DATE: 03-05-2021 name : RH Vaibhavwadi pincode : 416810 age_limit : 45 vaccine : COVISHIELD
+DATE: 03-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 03-05-2021 name : Phc Kharepatan pincode : 416703 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 05-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 06-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 09-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 10-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 11-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 12-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 13-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 14-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 15-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 16-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 17-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+DATE: 18-05-2021 name : RH Vengurla pincode : 416516 age_limit : 45 vaccine : COVAXIN
+--------------------
+Date: 3:5:2021
+Time: 23:16
+Phone number: +919920119660
+Message: Vaccines available : DATE: 04-05-2021 name : Cooper Hospital 1 pincode : 400058 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 3:5:2021
+Time: 23:17
+Phone number: +919892847666
+Message: Vaccines available : DATE: 04-05-2021 name : Cooper Hospital 1 pincode : 400058 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 3:5:2021
+Time: 23:46
+Phone number: +919920119660
+Message: Vaccines available : DATE: 04-05-2021 name : Dr. Babasaheb Memorial GH pincode : 400027 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 3:5:2021
+Time: 23:47
+Phone number: +919892847666
+Message: Vaccines available : DATE: 04-05-2021 name : Dr. Babasaheb Memorial GH pincode : 400027 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 4:5:2021
+Time: 11:2
+Phone number: +919920119660
+Message: Vaccines available : DATE: 04-05-2021 name : Kurla Bhabha Hospital-1 avail :5 pincode : 400070 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : ESIS HOSPITAL WORLI avail :1 pincode : 400018 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : Worli Koliwada Dispensary avail :1 pincode : 400030 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : KOHINOOR PUB PARKING LOT DADAR avail :389 pincode : 400028 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : Kohinoor Hospital Kurla Mumbai avail :39 pincode : 400070 age_limit : 45 vaccine : COVAXIN
+DATE: 04-05-2021 name : BKC Jumbo COVID Facility 2 avail :2 pincode : 400051 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : URBAN HEALTH CENTER DHARAVI avail :93 pincode : 400019 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : LBS HOSPITAL BHANDUP avail :25 pincode : 400078 age_limit : 45 vaccine : COVISHIELD
+--------------------
+Date: 4:5:2021
+Time: 11:3
+Phone number: +919892847666
+Message: Vaccines available : DATE: 04-05-2021 name : Kurla Bhabha Hospital-1 avail :5 pincode : 400070 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : ESIS HOSPITAL WORLI avail :1 pincode : 400018 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : Worli Koliwada Dispensary avail :1 pincode : 400030 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : KOHINOOR PUB PARKING LOT DADAR avail :389 pincode : 400028 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : Kohinoor Hospital Kurla Mumbai avail :39 pincode : 400070 age_limit : 45 vaccine : COVAXIN
+DATE: 04-05-2021 name : BKC Jumbo COVID Facility 2 avail :2 pincode : 400051 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : URBAN HEALTH CENTER DHARAVI avail :93 pincode : 400019 age_limit : 45 vaccine : COVISHIELD
+DATE: 04-05-2021 name : LBS HOSPITAL BHANDUP avail :25 pincode : 400078 age_limit : 45 vaccine : COVISHIELD
+--------------------
