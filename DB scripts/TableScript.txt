@@ -1,0 +1,59 @@
+USE [TradeDB]
+GO
+
+/****** Object:  Table [dbo].[Transaction]    Script Date: 4/1/2022 2:19:59 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Transaction](
+	[TransactionID] [bigint] IDENTITY(1,1) NOT NULL,
+	[TradeID] [bigint] NOT NULL,
+	[Version] [int] NOT NULL,
+	[SecurityCode] [varchar](10) NOT NULL,
+	[Quantity] [int] NOT NULL,
+	[Action] [varchar](10) NOT NULL,
+	[Buy] [bit] NOT NULL,
+ CONSTRAINT [PK_Transaction] PRIMARY KEY CLUSTERED 
+(
+	[TransactionID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+USE [TradeDB]
+GO
+
+/****** Object:  Index [PK_Transaction]    Script Date: 4/1/2022 2:20:22 PM ******/
+ALTER TABLE [dbo].[Transaction] ADD  CONSTRAINT [PK_Transaction] PRIMARY KEY CLUSTERED 
+(
+	[TransactionID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, IGNORE_DUP_KEY = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+GO
+
+USE [TradeDB]
+GO
+
+SET ANSI_PADDING ON
+GO
+
+/****** Object:  Index [nciSecurityCode]    Script Date: 4/1/2022 2:20:43 PM ******/
+CREATE NONCLUSTERED INDEX [nciSecurityCode] ON [dbo].[Transaction]
+(
+	[SecurityCode] ASC
+)
+INCLUDE([Quantity],[Action],[Buy]) WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, DROP_EXISTING = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+GO
+
+USE [TradeDB]
+GO
+
+/****** Object:  Index [PK_Transaction]    Script Date: 4/1/2022 2:20:51 PM ******/
+ALTER TABLE [dbo].[Transaction] ADD  CONSTRAINT [PK_Transaction] PRIMARY KEY CLUSTERED 
+(
+	[TransactionID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, SORT_IN_TEMPDB = OFF, IGNORE_DUP_KEY = OFF, ONLINE = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+GO
+
